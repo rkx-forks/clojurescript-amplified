@@ -9,6 +9,6 @@
 (defn save [visible? click-fn]
   [button {:variant  "outlined"
            :size     "small"
-           :style    (styling visible?)
+           ; :style    (styling visible?)
            :on-click click-fn}
    "save"])
