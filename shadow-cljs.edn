@@ -4,7 +4,7 @@
   "src/stories"]
 
  :dependencies
- [[reagent "1.1.0"]
+ [[reagent "1.1.1"]
   [re-frame "1.2.0"]
   [arttuka/reagent-material-ui "5.0.0-0"]]
 
