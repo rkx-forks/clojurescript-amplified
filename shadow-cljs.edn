@@ -25,4 +25,5 @@
 
             :stories {:target     :npm-module
                       :ns-regexp  "-stories$"
+                      :devtools {:enabled false}
                       :output-dir "public/js/stories"}}}
